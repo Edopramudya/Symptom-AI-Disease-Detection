@@ -1,0 +1,42 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Drug Reaction,Menghentikan iritasi,Konsultasikan ke rumah sakit terdekat,Berhenti minum obat,Menindaklanjuti
+Malaria,Konsultasikan ke rumah sakit terdekat,Hindari makanan berminyak,Hindari makanan non-vegetarian,Mengusir nyamuk
+Allergy,Oleskan calamine,Tutupi area tersebut dengan perban,,Gunakan es untuk mengompres rasa gatal.
+Hypothyroidism,Kurangi stres,Olahraga,Makan makanan sehat,Tidur yang cukup
+Psoriasis,Cuci tangan dengan air sabun hangat,Hentikan pendarahan menggunakan tekanan,Konsultasi ke dokter,Mandi garam
+GERD,Hindari makanan pedas berlemak,Hindari berbaring setelah makan,Menjaga berat badan yang sehat,Olahraga
+Chronic cholestasis,Mandi air dingin,Pakai obat anti gatal,Konsultasi ke dokter,Makan makanan sehat
+hepatitis A,Konsultasi ke rumah sakit terdekat,Cuci tangan,Hindari makanan pedas berlemak,Pengobatan
+Osteoarthristis,Acetaminophen,Konsultasi ke rumah sakit terdekat,Menindaklanjuti,Mandi garam
+(vertigo) Paroymsal  Positional Vertigo,Berbaring,Hindari perubahan tubuh yang tiba-tiba,Hindari gerakan kepala yang tiba-tiba,Relaksasi
+Hypoglycemia,Berbaring,Cek denyut nadi,Minum air gula,Konsultasi ke dokter
+Acne,Mandi dua kali,Hindari makanan pedas berlemak,Minum banyak air,Hindari produk berlebih
+Diabetes ,Diet seimbang,Olahraga,Konsultasi ke dokter,Kurangi gula
+Impetigo,Rendam area yang terkena dalam air hangat,Gunakan antibiotik,Singkirkan kerak luka dengan kain basah yang ditekan,Konsultasi ke dokter
+Hypertension ,Meditasi,Mandi garam,Kurangi stress,Tidur yang cukup
+Peptic ulcer diseae,Hindari makanan pedas berlemak,Konsumsi makanan probiotik,Hibdari susu,Batasi alkohol
+Dimorphic hemmorhoids(piles),Hindari makanan pedas berlemak,Konsumsi witch hazel,Mandi air hangat dengan garam Epsom,Konsumsi jus lidah buaya
+Common Cold,Minu vitamin C,Hirup uap,Hindari makanan dingin,Mengendalikan demam
+Chicken pox,Mandi menggunakan air rebusan atau rendaman daun neem (mimba) ,Mengonsumsi daun neem,Vaksinasi,Hindari tempat umum
+Cervical spondylosis,Penggunaan heating pad (kompres hangat) dan cold pack (kompres dingin),Olahraga,Konsumsi obat pereda nyeri,Konsultasi ke dokter
+Hyperthyroidism,Makan makanan sehat,Pijat,Gunakan lemon balm,Terapi radioiodin
+Urinary tract infection,Minum banyak air,Perbanyak vitamin C,Minum jus cranberry,Konsumsi probiotik
+Varicose veins,Berbaringlah telentang dan angkat kaki tinggi-tinggi,Menggunakan salep,Menggunakan kompresi vena,Jangan berdiri terlalu lama
+AIDS,hindari pemotongan terbuka,Gunakan Alat Pelindung Diri (APD) jika memungkinkan,Konsultasi ke dokter,Menindaklanjuti
+Paralysis (brain hemorrhage),Pijat,Makan makanan sehat,Olahraga,Konsultasi ke dokter
+Typhoid,Makan sayuran tinggi kalori,Lakukan terapi antibiotik,Konsultasi ke dokter,Pengobatan
+Hepatitis B,Konsultasi ke rumah sakit terdekat,Vaksinasi,Makan makanan sehat,Pengobatan
+Fungal infection,Mandi dua kali,Penggunaan Dettol (cairan antiseptik) atau daun/ekstrak Neem (mimba) dalam air mandi,Jaga agar area yang terinfeksi tetap kering,Gunakan pakaian bersih
+Hepatitis C,Konsultasi ke rumah sakit terdekat,Vaksinasi,Makan makanan sehat,Pengobatan
+Migraine,Meditasi,Kurangi stress,Gunakan kacamata polaroid di bawah sinar matahari,Konsultasi kedokter
+Bronchial Asthma,Beralih ke pakaian longgar,Tarik napas dalam-dalam,Menjauh dari pemicu,Mencari bantuan
+Alcoholic hepatitis,Berhenti konsumsi alkohol,Konsultasi kedokter,Pengobatan,Menindaklanjuti
+Jaundice,Minum banyak air,Konsumsi milk thistle,Konsumsi buah-buahan dan makanan tinggi serat,Pengobatan
+Hepatitis E,Berhenti konsumsi alkohol,Istirahat,Konsultasi kedokter,Pengobatan
+Dengue,Minum jus daun pepaya,Hindari makanan pedas berlemak,Jauhi nyamuk,Tetap terhidrasi
+Hepatitis D,Konsultasi kedokter,Pengobatan,Makan makanan sehat,Menindaklanjuti
+Heart attack,Hubungi Ambulan,Kunyah atau telan aspirin,Tetap tenang,
+Pneumonia,Konsultasi kedonter,Pengobatan,Istirahat,Menindaklanjuti
+Arthritis,Olahraga,Lakukan terapi dingin atau panas,Coba akupuntur,Pijat
+Gastroenteritis,Berhenti mengonsumsi makanan padat untuk sementara waktu,Cobalah minum air sedikit demi sedikit,Istrahat,Kembali makan
+Tuberculosis,Menutupi mulut,Konsultasi kedokter,Pengobatan,Istirahat
